@@ -3,7 +3,7 @@ This is a approach to run my BackMapping code. The general procedure involves fi
 
 ## 1. Install sub-Linux system
 ### 1.1 Subsystems in win system settings
-打开 控制面板 \Rightarrow
+打开 控制面板 -->
 
 
 ## 2. Configuring the environment with miniconda
