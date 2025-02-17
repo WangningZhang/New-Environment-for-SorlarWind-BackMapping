@@ -26,4 +26,7 @@ bash ~/Miniconda3-latest-Linux-x86_64.sh
 
 将miniconda安装后，下载文件到本地
 
-## 3. Description of the code and data format
+## 3. Install VScode app and setting it
+安装 VScode，在左侧应用商店中下载 WSL
+
+## 4. Description of the code and data format
