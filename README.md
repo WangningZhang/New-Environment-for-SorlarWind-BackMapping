@@ -30,6 +30,7 @@ bash ~/Miniconda3-latest-Linux-x86_64.sh
 等待创建完成后输入`conda activate spczwn`即可激活环境
 
 ## 3. Install VScode app and setting it
-安装 VScode，在左侧应用商店中先下载 WSL，安装完成后在 VScode 中激活 Ubuntu 系统然后再安装Python、Jupyter等系列插件。（这一步有点难以形容，到了这步叫我过去吧）
+安装 VScode，在左侧应用商店中先下载 WSL，安装完成后在 VScode 中激活 Ubuntu 系统然后再安装Python、Jupyter等系列插件。（这一步有点难以形容，但是很简单，到了这步叫我过去吧）
 
 ## 4. Description of the code and data format
+代码里有一些简单的注释，和输入输出的样例。到时候有啥问题我现补充吧～
