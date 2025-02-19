@@ -18,22 +18,18 @@ This is a approach to run my BackMapping code. The general procedure involves fi
 
 ## 2. Configuring the environment with miniconda
 在Ubuntu系统中安装miniconda，在Ubuntu系统终端中分别输入：
-
+```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash ~/Miniconda3-latest-Linux-x86_64.sh
-
-输入
-
-`conda --version`
-
+```
+输入`conda --version`可查看是否安装成功
 
 详情可参考'https://docs.anaconda.com/miniconda/install/#quick-command-line-install'
 
-将miniconda安装后，下载 environment.yml 文件到本地，在保存 yml 文件的目录下打开 Ubuntu 系统终端输入：
-
-
+将miniconda安装后，下载 environment.yml 文件到本地，在保存 yml 文件的目录下打开 Ubuntu 系统终端输入：`conda env create -f environment.yml`
+等待创建完成后输入`conda activate spczwn`即可激活环境
 
 ## 3. Install VScode app and setting it
-安装 VScode，在左侧应用商店中下载 WSL
+安装 VScode，在左侧应用商店中先下载 WSL，安装完成后在 VScode 中激活 Ubuntu 系统然后再安装Python、Jupyter等系列插件。（这一步有点难以形容，到了这步叫我过去吧）
 
 ## 4. Description of the code and data format
