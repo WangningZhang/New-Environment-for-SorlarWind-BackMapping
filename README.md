@@ -22,9 +22,16 @@ This is a approach to run my BackMapping code. The general procedure involves fi
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash ~/Miniconda3-latest-Linux-x86_64.sh
 
+输入
+
+`conda --version`
+
+
 详情可参考'https://docs.anaconda.com/miniconda/install/#quick-command-line-install'
 
-将miniconda安装后，下载文件到本地
+将miniconda安装后，下载 environment.yml 文件到本地，在保存 yml 文件的目录下打开 Ubuntu 系统终端输入：
+
+
 
 ## 3. Install VScode app and setting it
 安装 VScode，在左侧应用商店中下载 WSL
